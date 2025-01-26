@@ -145,8 +145,8 @@ Minishell gère les cas d'erreur suivants :
 
 ## 🤝 Contributeurs
 
-- **Nom Prénom** - [GitHub](https://github.com/votre-utilisateur)
-- **Nom Prénom** - [GitHub](https://github.com/votre-utilisateur)
+- **Nom Prénom** - [victorviterbo](https://github.com/victorviterbo)
+- **Nom Prénom** - [Xxzer042xX](https://github.com/Xxzer042xX)
 
 ---
 
